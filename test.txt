@@ -1,0 +1,13 @@
+// if you want insert press i
+// if you want exit pree esc
+// if you want save press :w
+// if you want save and exit press :wq
+// if you want just exit press :q
+
+public class Application {
+	public static void main(String[] args){
+		System.out.println("Hello World!");
+		System.out.println("Nice to meet you");
+	}
+}
+
